@@ -18,3 +18,9 @@ Measure Variables:
 | H [Relative Humidity]  | Ratio of the partial pressure of water vapor to the equilibrium vapor pressure of water at a given temperature |
 | M [Soil Moisture]      | Water content in the soil                                                                                      |
 
+Graphs:
+
+<img src = "https://i.ibb.co/JtW62Pw/agro.png" width = "800">
+<img src = "https://i.ibb.co/b65XgkM/agro2.png" width = "800">
+
+
